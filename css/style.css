@@ -1,0 +1,23 @@
+body{
+    background-image: url('../images/to-do-list.jpg')
+}
+
+
+.center_with_border {
+    border: 2px dotted black;
+    width: 75%;
+    margin: auto;
+}
+
+
+.text-blue {
+    color: blue
+    ;
+}
+
+/* This is my own comment.*/
+.classname {
+    property: value;
+    property: value;
+    property: value;
+}
